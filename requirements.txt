@@ -2,7 +2,7 @@ django
 gunicorn
 whitenoise
 psycopg2-binary==2.9.11
-requests==2.34.0
+requests==2.34.2
 urllib3
 django-environ
 charset-normalizer==3.4.5
